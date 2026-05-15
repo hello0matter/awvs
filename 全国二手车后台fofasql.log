@@ -1,0 +1,14 @@
+[2026-04-29 07:36:58] INFO ====================================================================
+[2026-04-29 07:36:58] INFO AWVS 双模式扫描调度器启动
+[2026-04-29 07:36:58] INFO mode=export-sqlmap base_url=https://localhost:3443/api/v1
+[2026-04-29 07:36:58] INFO profile_id=75fdebf5-e644-4f30-917b-cdf7a8c18efa profile_name=- group=全国二手车后台fofa output=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql.log
+[2026-04-29 07:36:58] INFO scan_route=auto route_by_target=True check_cache=True http_proxy=127.0.0.1:7890 precheck=True http_attempts=3 socks5_probe=127.0.0.1:7891 batch_size=500 timeout=20m auto_login=False
+[2026-04-29 07:36:58] INFO ====================================================================
+[2026-04-29 07:37:00] INFO [SQLMAP] query=group_id:7eae5e54-63be-47d5-b524-d02e978e5bf9;severity:4;status:open
+[2026-04-29 07:37:00] INFO [SQLMAP] summary=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql\00_vulnerability_summary.csv
+[2026-04-29 07:37:00] INFO [SQLMAP] direct=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql\01_direct_exploitable.csv
+[2026-04-29 07:37:00] INFO [SQLMAP] manual=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql\02_manual_review.csv
+[2026-04-29 07:37:00] INFO [SQLMAP] urls=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql\03_sqlmap_urls.txt
+[2026-04-29 07:37:00] INFO [SQLMAP] collection_bat=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql\04_run_sqlmap_collection.bat
+[2026-04-29 07:37:00] INFO [SQLMAP] requests_bat=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql\05_run_sqlmap_requests.bat
+[2026-04-29 07:37:00] INFO [DONE] SQLMap bundle ready: total=17 sql_requests=13 direct=13 dir=D:\tmp\anjian\pj\st\tmp\tmp\awvs\全国二手车后台fofasql

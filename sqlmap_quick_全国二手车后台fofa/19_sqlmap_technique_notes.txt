@@ -1,0 +1,12 @@
+技术分类说明
+
+boolean: 布尔/逻辑盲注。通过真假条件让页面表现不同，再据此判断注入是否成立。
+error: 报错注入。通过数据库报错信息直接回显数据、结构或可控表达式结果。
+time: 时间盲注。通过 sleep/延时函数观察响应时间变化来判断真假。
+
+来源说明
+
+request: 原始 request 模式跑出来的结果。
+request-baseline: 基线值 request 模式跑出来的结果。
+collection: URL collection 模式跑出来的结果。
+collection-baseline: 基线值 URL collection 模式跑出来的结果。

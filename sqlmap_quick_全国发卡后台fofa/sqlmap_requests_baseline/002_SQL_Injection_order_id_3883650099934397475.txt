@@ -1,0 +1,7 @@
+GET /api/order/info?order_id=1 HTTP/1.1
+Host: 111.230.211.247:666
+X-Requested-With: XMLHttpRequest
+Referer: http://111.230.211.247:666/
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

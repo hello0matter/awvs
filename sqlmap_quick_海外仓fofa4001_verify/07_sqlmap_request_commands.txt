@@ -1,0 +1,1 @@
+sqlmap -r "sqlmap_requests\001_SQL_Injection_tid_3888037214562551033.txt" --batch --smart --random-agent --output-dir "sqlmap_output\001_3888037214562551033" --force-ssl -p "tid"

@@ -1,0 +1,3 @@
+﻿group_name,group_id,severity,status,confidence,vuln_id,vuln_name,url,parameter,techniques,direct_exploitable,exploit_mode,reason,evidence,request_file,sqlmap_url,sqlmap_command,baseline_request_file,baseline_sqlmap_url,baseline_sqlmap_command,effective_proxy,proxy_source
+全国发卡后台fofa,3f4773c3-fdb4-4a39-b3e2-b742f97abb69,critical,open,95,3883653820508538007,axios Origin Validation Error Vulnerability,http://82.156.149.52/,,,no,review,likely component/CVE finding or needs manual validation,axios v0.19.2-0.19.2,,,,,,,,
+全国发卡后台fofa,3f4773c3-fdb4-4a39-b3e2-b742f97abb69,critical,open,95,3883699079271679637,axios Origin Validation Error Vulnerability,http://168f.icu/,,,no,review,likely component/CVE finding or needs manual validation,axios v0.19.2-0.19.2,,,,,,,,

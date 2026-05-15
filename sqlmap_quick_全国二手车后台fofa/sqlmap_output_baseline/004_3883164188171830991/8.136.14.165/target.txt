@@ -1,0 +1,1 @@
+http://8.136.14.165:80/html/report?good=1&number=1 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests_baseline\004_SQL_Injection_good_3883164188171830991.txt --batch --smart --random-agent --output-dir sqlmap_output_baseline\004_3883164188171830991 -p good

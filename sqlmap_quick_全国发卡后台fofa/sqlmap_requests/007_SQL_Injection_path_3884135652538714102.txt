@@ -1,0 +1,7 @@
+GET /zbmh/1'"1000 HTTP/1.1
+Host: www.5iml.com
+User-Agent: Mozilla/5.0
+referer: https://www.5iml.com/zbmh/
+Cookie: PHPSESSID=td85t71r83ebb6pdafb2lob8qr; ete_search_history=%5B%221%26type%3Dlog%26uid%3D1%22%5D; ete_log_id=8; views8=1; content_url_go_wait=3; ete_logo_light=https%3A%2F%2Fwww.5iml.com%2Fcontent%2Fuploadfile%2F202511%2F27cd1762365749.svg; ete_logo_night=https%3A%2F%2Fwww.5iml.com%2Fcontent%2Fuploadfile%2F202511%2F27cd1762365749.svg; views272=1; views262=1; views11=1; views275=1; views266=1; views248=1; views191=1; ete-enhance-fps=54; targetEncodinghttps://www5imlcom/=1; ete_night=0; ete_night_tmp=Mon%20Apr%2027%202026%2007%3A11%3A30%20GMT%2B0800%20(China%20Standard%20Time)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+

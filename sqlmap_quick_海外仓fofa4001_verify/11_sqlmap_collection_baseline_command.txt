@@ -1,0 +1,1 @@
+sqlmap -m "08_sqlmap_urls_baseline.txt" --batch --smart --random-agent --results-file "sqlmap_collection_results.csv" --output-dir "sqlmap_output_baseline\collection"

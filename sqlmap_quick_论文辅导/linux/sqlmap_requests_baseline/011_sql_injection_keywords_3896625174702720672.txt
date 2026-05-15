@@ -1,0 +1,8 @@
+GET /University/index.html?china_degree=%E6%9C%AC%E7%A7%91&country=cn&countryarea=1&keywords=1&rank_type=qs HTTP/1.1
+Host: 101.200.130.106
+X-Requested-With: XMLHttpRequest
+Referer: https://101.200.130.106/
+Cookie: PHPSESSID=oap63097i7ggh0ode2upgsss44
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

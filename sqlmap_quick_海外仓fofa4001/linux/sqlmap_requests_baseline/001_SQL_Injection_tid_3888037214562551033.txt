@@ -1,0 +1,8 @@
+GET /source/article.php?act=search&tid=1&ydh=987-65-4329 HTTP/1.1
+Host: 8.210.166.211
+X-Requested-With: XMLHttpRequest
+Referer: https://8.210.166.211/
+Cookie: PHPSESSID=g5aj5ppklvd0g3t2vka2mmcqf5; zh_choose=t
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

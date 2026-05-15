@@ -1,0 +1,8 @@
+GET /api/goods/find?limit=20&page=1&sort=1&total=20&word=1 HTTP/1.1
+Host: 82.156.149.52
+X-Requested-With: XMLHttpRequest
+Referer: http://82.156.149.52/
+Cookie: JSTEESESSID=8fb7ab9c-2865-4cde-b93a-7450bee672d4
+Accept: application/json, text/plain, */*
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

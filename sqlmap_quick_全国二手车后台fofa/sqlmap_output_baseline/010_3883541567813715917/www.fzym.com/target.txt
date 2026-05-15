@@ -1,0 +1,1 @@
+http://www.fzym.com:80/tag/1 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests_baseline\010_SQL_Injection_{GENERIC}_3883541567813715917.txt --batch --smart --random-agent --output-dir sqlmap_output_baseline\010_3883541567813715917 -p {GENERIC}

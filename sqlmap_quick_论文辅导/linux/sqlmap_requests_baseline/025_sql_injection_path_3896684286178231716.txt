@@ -1,0 +1,7 @@
+GET /index/my/guanzhu_list/s/3/u_id/42/type/1 HTTP/1.1
+Host: www.zkkyjy.cn
+User-Agent: Mozilla/5.0
+referer: https://www.zkkyjy.cn/index/my/guanzhu_list/s/3/u_id/42/type/
+Cookie: PHPSESSID=13msmjslbsh7qp26pr4lbme6cb
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+

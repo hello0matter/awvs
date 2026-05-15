@@ -1,0 +1,8 @@
+GET /detail/1 HTTP/1.1
+Host: www.fzym.com
+X-Requested-With: XMLHttpRequest
+Referer: https://www.fzym.com/
+Cookie: PHPSESSID=2p1tb9d73fh0ob6fmlalsshstl
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

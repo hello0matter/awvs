@@ -1,0 +1,1 @@
+﻿group_name,group_id,severity,status,confidence,vuln_id,vuln_name,url,parameter,techniques,direct_exploitable,exploit_mode,reason,evidence,request_file,sqlmap_url,sqlmap_command,effective_proxy,proxy_source

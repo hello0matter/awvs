@@ -1,0 +1,6 @@
+﻿url,description,selected_route,selected_reason,risk_level,risk_tag,direct_ok,http_proxy_ok,socks5_ok,http_attempts,details
+https://103.43.188.137,test-0001 https://103.43.188.137,direct,直连可用，未启用代理探测,low,,True,,,,direct=ok(0.04s)
+https://207.57.228.140,test-0002 https://207.57.228.140,direct,直连可用，未启用代理探测,low,,True,,,,direct=ok(0.16s)
+https://2ekox1vp.qushutong.com,test-0003 https://2ekox1vp.qushutong.com,direct,直连可用，未启用代理探测,low,,True,,,,direct=ok(0.30s)
+https://k3htzrry.qushutong.com,test-0004 https://k3htzrry.qushutong.com,direct,直连可用，未启用代理探测,low,,True,,,,direct=ok(1.29s)
+https://3ngvuhsn.qushutong.com,test-0005 https://3ngvuhsn.qushutong.com,direct,直连可用，未启用代理探测,low,,True,,,,direct=ok(0.28s)

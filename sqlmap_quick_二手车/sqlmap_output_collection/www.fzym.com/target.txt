@@ -1,0 +1,1 @@
+https://www.fzym.com/* (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -m 03_sqlmap_urls.txt --batch --smart --random-agent --results-file sqlmap_collection_results.csv --output-dir sqlmap_output_collection

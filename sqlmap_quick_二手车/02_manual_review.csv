@@ -1,0 +1,2 @@
+﻿group_name,group_id,severity,status,confidence,vuln_id,vuln_name,url,parameter,techniques,direct_exploitable,exploit_mode,reason,evidence,request_file,sqlmap_url,sqlmap_command,effective_proxy,proxy_source
+二手车,a8a82e92-35e4-43a6-b205-c07e97b1efbc,critical,open,95,3882590560569001145,Lodash Other Vulnerability,https://123.57.16.20/,,,no,review,likely component/CVE finding or needs manual validation,lodash v4.17.10-4.17.10,,,,,

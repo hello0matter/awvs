@@ -1,0 +1,7 @@
+GET /code/key/1 HTTP/1.1
+Host: www.huzhan.com
+User-Agent: Mozilla/5.0
+referer: https://www.huzhan.com/code/key/
+Cookie: ci_session=q4pfafv6fcpv1gh0c8b6onj49sboahh0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+

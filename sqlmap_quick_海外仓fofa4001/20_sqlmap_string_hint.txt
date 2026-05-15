@@ -1,0 +1,19 @@
+﻿sqlmap quick export guidance (2026.05.05-sqlmap-followup)
+
+This exporter now does three things for boolean-based blind SQLi:
+  1. Tries to add a TRUE-only --string automatically.
+  2. If TRUE text is not stable, tries a FALSE-only --not-string automatically.
+  3. Exports follow-up enumeration commands in 21/22 after a hit is confirmed.
+
+Recommended flow after sqlmap confirms an injection:
+  1. Run --current-db first; do not assume the database name from FOFA/domain text.
+  2. Run --dbs if --current-db is empty or suspicious.
+  3. Replace DB_NAME_HERE in 21/22 with the confirmed database name, then run --tables.
+  4. If table count/name retrieval fails, retry the hardened command with --no-cast --hex.
+  5. Keep --threads 5 for blind retrieval; increase carefully only if responses are stable.
+
+Important sqlmap options:
+  --tables lists all tables for a database.
+  -T requires one table name, e.g. -T admin; do not use bare -T for listing tables.
+  --string must appear only in TRUE/normal responses.
+  --not-string should be text that appears only in FALSE/error responses.

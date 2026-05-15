@@ -1,0 +1,1 @@
+http://www.tongruirenye.com:80/addons/cms/index/get_index_list.html?page=%40%40mp2MV (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\013_SQL_Injection_page_3884290611896911055.txt --batch --smart --random-agent --output-dir sqlmap_output\013_3884290611896911055 -p page

